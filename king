@@ -1,6 +1,10 @@
 hi this is git hub edited in github.com manual created
 
 
+<<<<<<< HEAD
 this is repository of 44 th is com
 
 this is bare repo change
+=======
+this is merge conflict example from MASTER BRANCH
+>>>>>>> 887b94a11b970e040a29e9f50ecfae4ae1c82ce8
